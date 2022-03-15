@@ -9,13 +9,14 @@
 [LinkedIn](https://www.linkedin.com/in/drfcozapata) </br>
 [Email](mailto:drfcozapata@gmail.com)
 
+- 🔭 I’m currently working on ... Translation of Vue 3 new documentation
+- 🌱 I’m currently learning ... React JS and Vue.js
+
 <!--
 **drfcozapata/drfcozapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Translation of Vue 3 new documentation
-- 🌱 I’m currently learning ... React JS and Vue.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
