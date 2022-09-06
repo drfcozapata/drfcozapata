@@ -1,7 +1,7 @@
 ### Hi there. I'm Francisco 👋
-### I'm a newbie Web Developer and freelancer for the last 4 yr
+### I'm a relatively newbie Web Developer and freelancer for the last 4 yr
 
-- 🌱 I’m currently learning React JS and deepening in my knowlegde of Vue.js and Nuxt.js.
+- 🌱 I develop in React.js and Vue.js, and work backend with Node.js (+Express +PostgreSQL). In short, everything related to JavaScript!
 - I'm passionate about frontend web development, although I work equally well with the backend.
 
 ### 📫 How to reach me:
