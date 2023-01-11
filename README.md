@@ -1,7 +1,7 @@
 ### Hi there. I'm Francisco 👋
-### I'm a relatively newbie Web Developer and freelancer for the last 4 yr
+### I'm Web Developer and freelancer for the last 4 yr
 
-- 🌱 I develop in React.js and Vue.js, and work backend with Node.js (+Express +PostgreSQL). In short, everything related to JavaScript!
+- 🌱 I develop in Vue.js/Nuxt.js (also React.js), and work backend with Node.js (+Express +PostgreSQL). In short, everything related to JavaScript!
 - I'm passionate about frontend web development, although I work equally well with the backend.
 
 ### 📫 How to reach me:
@@ -10,7 +10,7 @@
 [Email](mailto:drfcozapata@gmail.com)
 
 - 🔭 I’m currently working on... Finishins the translation to spanish of Vue 3 new documentation (I coordinate the team).
-- 🌱 I’m currently learning... Nuxt.js 3.
+- 🌱 I’m currently learning... Laravel 9.
 
 <!--
 **drfcozapata/drfcozapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
