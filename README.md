@@ -9,7 +9,8 @@
 [LinkedIn](https://www.linkedin.com/in/drfcozapata) </br>
 [Email](mailto:drfcozapata@gmail.com)
 
-- 🔭 I’m currently working on... Finishins the **translation to spanish of Vue 3 new documentation** (I coordinate the team).
+- 🔭 I’m currently working on... Finishing the **translation to spanish of Vue 3 new documentation** (I coordinate the team).
+- 🤔 I’m developing some **personal projects in Vue.js 3** to strengthen my knowledge in this framework.
 - 🌱 I’m currently learning... **Laravel 9**.
 
 <!--
