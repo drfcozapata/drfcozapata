@@ -9,8 +9,8 @@
 [LinkedIn](https://www.linkedin.com/in/drfcozapata) </br>
 [Email](mailto:drfcozapata@gmail.com)
 
-- 🔭 I’m currently working on... Finishins the translation to spanish of Vue 3 new documentation (I coordinate the team).
-- 🌱 I’m currently learning... Laravel 9.
+- 🔭 I’m currently working on... Finishins the **translation to spanish of Vue 3 new documentation** (I coordinate the team).
+- 🌱 I’m currently learning... **Laravel 9**.
 
 <!--
 **drfcozapata/drfcozapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
