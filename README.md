@@ -7,9 +7,9 @@
 - Now also developing Flutter apps for Android and iOS.
 
 ### 📫 How to reach me:
-[Twitter](https://x.com/drfcozapata) </br>
-[LinkedIn](https://www.linkedin.com/in/drfcozapata) </br>
-[Email](mailto:drfcozapata@gmail.com)
+[WhatsApp](https://wa.me/584120918548) </br>
+[Email](mailto:drfcozapata@gmail.com) </br>
+[LinkedIn](https://www.linkedin.com/in/drfcozapata)
 
 - 🔭 I am currently working on... the development of a multitenant SaaS application for managing clinics and hospitals as a personal project that includes web and mobile components, which will be deployed on AWS.
 - 🌱 I’m currently learning... **C# and .Net**.
